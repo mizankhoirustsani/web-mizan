@@ -2,5 +2,5 @@ web mizan
 - melanjutkan belajar github wpu sampai selesai
 - membuat platform untuk tugas
 - membuat forum diskusi
-- membuat game online
+- membuat game online baru
 - dll
